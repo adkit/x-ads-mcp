@@ -1,0 +1,22 @@
+{
+  "name": "x-ads",
+  "description": "X Ads MCP server by AdKit: X (Twitter) campaigns, ad groups, ads and reports. Every change is saved as a draft until you approve it.",
+  "author": {
+    "name": "AdKit",
+    "email": "contact@adkit.so"
+  },
+  "homepage": "https://adkit.so/features/ads-mcp/x",
+  "repository": "https://github.com/adkit/x-ads-mcp",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "x ads mcp",
+    "x ads",
+    "mcp",
+    "model context protocol",
+    "ads mcp",
+    "advertising",
+    "ad campaigns"
+  ],
+  "mcpServers": "./.mcp.json"
+}

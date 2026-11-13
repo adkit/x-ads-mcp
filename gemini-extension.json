@@ -1,0 +1,11 @@
+{
+  "name": "adkit-x-ads",
+  "version": "1.0.0",
+  "description": "X Ads MCP server by AdKit: X (Twitter) campaigns, ad groups, ads and reports. Every change is saved as a draft until you approve it.",
+  "mcpServers": {
+    "adkit-x-ads": {
+      "httpUrl": "https://mcp.adkit.so/api/mcp/x-ads",
+      "description": "Hosted AdKit X Ads MCP server. Signs in with OAuth in the browser on first use; nothing to install."
+    }
+  }
+}

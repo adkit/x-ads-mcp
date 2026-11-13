@@ -1,0 +1,22 @@
+{
+  "name": "adkit-x-ads",
+  "metadata": {
+    "description": "X Ads MCP server by AdKit: X (Twitter) campaigns, ad groups, ads and reports. Every change is saved as a draft until you approve it."
+  },
+  "owner": {
+    "name": "AdKit",
+    "email": "contact@adkit.so"
+  },
+  "plugins": [
+    {
+      "name": "x-ads",
+      "source": "./",
+      "description": "X Ads MCP server by AdKit: X (Twitter) campaigns, ad groups, ads and reports. Every change is saved as a draft until you approve it.",
+      "author": {
+        "name": "AdKit",
+        "email": "contact@adkit.so"
+      },
+      "homepage": "https://adkit.so/features/ads-mcp/x"
+    }
+  ]
+}
